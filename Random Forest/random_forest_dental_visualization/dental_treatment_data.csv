@@ -1,0 +1,23 @@
+age,tooth_pain_level,gum_bleeding,cavity_present,plaque_level,last_dental_visit_months,treatment_needed
+8,1,0,0,1,3,No Treatment
+10,2,0,0,2,6,No Treatment
+12,3,0,1,3,8,Filling
+15,4,1,1,4,12,Filling
+18,2,0,0,2,4,No Treatment
+22,5,1,1,5,18,Filling
+25,6,1,1,6,20,Root Canal
+30,7,1,1,7,24,Root Canal
+35,3,0,0,3,10,No Treatment
+40,8,1,1,8,30,Root Canal
+45,5,1,1,6,16,Filling
+50,9,1,1,9,36,Root Canal
+55,6,1,1,7,22,Root Canal
+60,8,1,1,8,28,Root Canal
+65,7,1,1,7,34,Root Canal
+70,9,1,1,9,40,Root Canal
+14,2,0,0,2,5,No Treatment
+28,6,1,1,6,18,Filling
+38,4,0,0,4,9,No Treatment
+48,8,1,1,8,32,Root Canal
+58,7,1,1,7,26,Root Canal
+68,9,1,1,9,42,Root Canal

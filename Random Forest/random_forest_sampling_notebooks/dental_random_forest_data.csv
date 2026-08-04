@@ -1,0 +1,13 @@
+age,pain_level,gum_bleeding,cavity,plaque_level,last_visit_months,treatment
+8,1,0,0,1,3,No Treatment
+10,2,0,0,2,6,No Treatment
+12,3,0,1,3,8,Filling
+15,4,1,1,4,12,Filling
+18,2,0,0,2,4,No Treatment
+22,5,1,1,5,18,Filling
+25,6,1,1,6,20,Root Canal
+30,7,1,1,7,24,Root Canal
+35,3,0,0,3,10,No Treatment
+40,8,1,1,8,30,Root Canal
+45,5,1,1,6,16,Filling
+50,9,1,1,9,36,Root Canal
